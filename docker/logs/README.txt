@@ -1,0 +1,1 @@
+The directory in which all logs are stored.

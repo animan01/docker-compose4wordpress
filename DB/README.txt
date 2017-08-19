@@ -1,0 +1,1 @@
+Upload your sql file in this directory for importint to DB.
