@@ -14,3 +14,4 @@ This configuration in development, please careful when use it.
 
 # Know issue
 * Change owner folder when deploying wordpress and log files.
+
