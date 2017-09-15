@@ -10,7 +10,7 @@ This stable configuration from deployment Wordpress web site.
 * http://localhost:8990/ - phpmyadmin
 
 # Warning
-This configuration in development, please careful when use it.
+This configuration in development, please careful when use it. In the near future we will release a stable version.
 
 # Know issue
 * Change owner folder when deploying wordpress and log files.
