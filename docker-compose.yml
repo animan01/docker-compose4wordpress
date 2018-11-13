@@ -50,3 +50,4 @@ services:
       - mariadb
 volumes:
     data-volume:
+
